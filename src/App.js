@@ -1,5 +1,5 @@
 import React from 'react';
-import Index from 
+//import Index 
 
 const App = () => {
   return <h1>Bulma</h1>;
