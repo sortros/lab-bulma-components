@@ -1,8 +1,8 @@
 import React from 'react';
-//import Index 
+import Index from '../public/index.html'
 
 const App = () => {
-  return <h1>Bulma</h1>;
+  return Index;
 };
 
 export default App;
